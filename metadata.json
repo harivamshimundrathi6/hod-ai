@@ -1,0 +1,7 @@
+{
+  "name": "HOD Assist Dashboard",
+  "description": "A comprehensive administrative dashboard for managing an AI Voice Receptionist for University Departments, featuring call logs, agent configuration, analytics, and university data integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
